@@ -2,15 +2,16 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
 date,Date Created,
+date_range, Date Range,
 description,Description,
-scale, Scale
+scale, Scale,
 subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
-source,SourceS
-identifier,Source Identifier,,
+source, Library
+identifier,Call Number,
 type,Type,
-format,Format,
+permalink, Link to UBC Library Record,, true,
 rights,Rights,
 rightsstatement,Rights Statement,,true
