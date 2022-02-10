@@ -3,5 +3,6 @@ title,true,true
 date,true,true
 creator,true,false
 description,true,true
+scale, true, true
 subject,true,true
 location,true,false
