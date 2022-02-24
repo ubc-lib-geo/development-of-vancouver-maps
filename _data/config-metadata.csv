@@ -12,6 +12,7 @@ longitude,Longitude
 source, Library
 identifier,Call Number,
 type,Type,
+format,Format,
 permalink, Link to UBC Library Record,, true,
 rights,Rights,
 rightsstatement,Rights Statement,,true
