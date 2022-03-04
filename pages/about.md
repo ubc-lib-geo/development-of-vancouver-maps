@@ -14,14 +14,13 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+As the cost of living in Vancouver continues to increase with no signs of reprieve, many are unaware of the history that has guided Vancouver through various stages of gentrification. Likewise, the stories behind Vancouver’s gentrification become lost in present-day issues, distracting from the policies and histories that have led to the gentrification of many neighbourhoods. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+With questions concerning the rhetoric constructed to validate government decisions that lead to gentrification (especially around the pursuit of creating “livability” – see Tolfo & Doucet, 2022), maps provide an invaluable primary resource to visualize the changes to city infrastructure, land designation, transportation, etc. to visualize any changes made as a consequence of government policy or historical decisions. These maps can therefore show the “various exclusions within the present, which rely on erasure of the past.” (Tolfo & Doucet, 2022)
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+Inspired by the [Anti-Eviction Mapping Project](https://antievictionmap.com/), this collection intends to provide access to maps freely available through UBC’s Koerner Library, GIS that could be utilized to visually demonstrate the historical gentrification of Vancouver.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
