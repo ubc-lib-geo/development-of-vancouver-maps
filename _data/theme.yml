@@ -10,7 +10,7 @@
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
 featured-image: https://searcharchives.vancouver.ca/uploads/r/null/0/6/7/067a6f8edb8d3a818f154f30e8d1c78dd891769e8b60633cfa6c992c57590303/8064a48e-01f4-4f6b-8d00-8230cfa40164-LEG1325.1.jpg
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: # Default is 8em
+home-title-y-padding: 12em # Default is 8em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: # Default is center
 
