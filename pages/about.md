@@ -20,6 +20,14 @@ With questions concerning the rhetoric constructed to validate government decisi
 
 Inspired by the [Anti-Eviction Mapping Project](https://antievictionmap.com/), this collection intends to provide access to maps freely available through UBC’s Koerner Library, GIS that could be utilized to visually demonstrate the historical gentrification of Vancouver.
 
+
+
+## About the Author
+
+My name is Charlie Fokkens, and I am a graduate student in the Master of Library and Information Studies program at UBC Vancouver. I created this collection through a Professional Experience course with UBC’s GIS Library. Though I have no formal background in geography, I am passionate about the way we build our communities and persuasive methods for delivering information. Thus, I was inspired to collect maps that could illustrate the change in Vancouver’s communities over time. The scope of this project was solely to create the collection to be analyzed by others, so I hope that if you have found this resource, you might find it useful to any research you might be conducting. 
+
+
+
 ## About Koerner Library
 
 Koerner Library is located on the University of British Columbia Vancouver campus, which is on theTraditional, Ancestral, and Unceded territories of the Musqueam people. This library houses resources for the Humanities and Social Sciences. Should you wish to view the physical maps references in this collection, you may do so by visiting the the map collection on the second floor, and search for the item using the Call Number (available in each item’s page).
