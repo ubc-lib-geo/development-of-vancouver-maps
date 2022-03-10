@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About Koerner Library" %}
 
 ## About the Collection
 
@@ -20,7 +20,8 @@ With questions concerning the rhetoric constructed to validate government decisi
 
 Inspired by the [Anti-Eviction Mapping Project](https://antievictionmap.com/), this collection intends to provide access to maps freely available through UBC’s Koerner Library, GIS that could be utilized to visually demonstrate the historical gentrification of Vancouver.
 
+## About Koerner Library
+
+Koerner Library is located on the University of British Columbia Vancouver campus, which is on theTraditional, Ancestral, and Unceded territories of the Musqueam people. This library houses resources for the Humanities and Social Sciences. Should you wish to view the physical maps references in this collection, you may do so by visiting the the map collection on the second floor, and search for the item using the Call Number (available in each item’s page).
 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 

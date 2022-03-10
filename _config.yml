@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: UBC Maps Collection
+title: Maps of the Development of Vancouver
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Maps of the Development of Vancouver, BC
+tagline: A Collection of Maps Available at UBC Vancouver's Koerner Library
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "UBC Maps Collection is a collection of maps of Vancouver available through UBC's Koerner Library"
+description: "Maps of the Development of Vancouver is a collection of historical maps of Vancouver available through UBC's Koerner Library. An intended purpose of this collection is to visually demonstrate the development and accompanying gentrification of Vancouver over time. Click the button below to learn more about the collection, the creator, and how to access the items in this collection."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: UBC Library GIS
 
