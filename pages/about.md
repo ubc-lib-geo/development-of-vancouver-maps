@@ -8,9 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://www.vancouverarchives.ca/wp-content/uploads/MAP359.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About Koerner Library" %}
+{% include feature/nav-menu.html sections="About the Collection;About the Author;About Koerner Library" %}
 
 ## About the Collection
 
@@ -19,6 +19,8 @@ As the cost of living in Vancouver continues to increase with no signs of reprie
 With questions concerning the rhetoric constructed to validate government decisions that lead to gentrification (especially around the pursuit of creating “livability” – see Tolfo & Doucet, 2022), maps provide an invaluable primary resource to visualize the changes to city infrastructure, land designation, transportation, etc. to visualize any changes made as a consequence of government policy or historical decisions. These maps can therefore show the “various exclusions within the present, which rely on erasure of the past.” (Tolfo & Doucet, 2022)
 
 Inspired by the [Anti-Eviction Mapping Project](https://antievictionmap.com/), this collection intends to provide access to maps freely available through UBC’s Koerner Library, GIS that could be utilized to visually demonstrate the historical gentrification of Vancouver.
+
+I would like to extend a special thank you to [Vancouver Archives](https://searcharchives.vancouver.ca/) for providing the majority of the images for the maps in this collection, and for extending the rights to reuse these maps in this collection. 
 
 
 
