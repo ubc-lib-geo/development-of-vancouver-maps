@@ -185,12 +185,12 @@ custom-foot: js/item-js.html
     <table id="additional-data" class="table table-striped" style="font-size:20px">
         <thead>
             <tr>
-                <th scope="col">Title</th>
-                <th scope="col">Creator</th>
-                <th scope="col">Date</th>
-                <th scope="col">Description</th>
-                <th scope="col">Call Number</th>
-                <th scope="col">UBC Link</th>
+                <td>Title</td>
+                <td>Creator</td>
+                <td>Date</td>
+                <td>Description</td>
+                <td>Call Number</td>
+                <td>UBC Link</td>
             </tr>
         </thead>
         <tr>
