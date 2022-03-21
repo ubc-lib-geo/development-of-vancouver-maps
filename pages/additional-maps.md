@@ -8,7 +8,7 @@ custom-foot: js/item-js.html
   <head prefix="og: http://ogp.me/ns#">
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Data | Maps of the Development of Vancouver</title>
+<title>Additional Maps | Maps of the Development of Vancouver</title>
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 <!--
   _____     ____        __  _           ___       _ __   __       
@@ -72,7 +72,7 @@ custom-foot: js/item-js.html
                     <a class="nav-link " href="/timeline.html">Timeline</a>
                 </li>
                 
-                <li class="nav-item active">
+                <li class="nav-item ">
                     <a class="nav-link " href="/data.html">Data</a>
                 </li>
                 
@@ -80,7 +80,7 @@ custom-foot: js/item-js.html
                     <a class="nav-link " href="/about.html">About</a>
                 </li>
                 
-                <li class="nav-item ">
+                <li class="nav-item active">
                     <a class="nav-link " href="/%20/additional-maps.html">Additional Maps</a>
                 </li></ul>
             
@@ -559,7 +559,7 @@ custom-foot: js/item-js.html
                     </li>
                     <li class="nav-item">
                     
-                        <a class="nav-link text-light active" href="/data.html">Data</a>
+                        <a class="nav-link text-light" href="/data.html">Data</a>
                     </li>
                     <li class="nav-item">
                     
@@ -567,7 +567,7 @@ custom-foot: js/item-js.html
                     </li>
                     <li class="nav-item">
                     
-                        <a class="nav-link text-light" href="/%20/additional-maps.html">Additional Maps</a>
+                        <a class="nav-link text-light active" href="/%20/additional-maps.html">Additional Maps</a>
                     </li></ul>
             </nav>
 
