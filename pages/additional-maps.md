@@ -1,26 +1,12 @@
 ---
 title: Additional Maps
+layout: default
 permalink: /additional-maps.html
 custom-foot: js/item-js.html
 ---
 
 <html lang="en" class="h-100">
   <head prefix="og: http://ogp.me/ns#">
-    <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Additional Maps | Maps of the Development of Vancouver</title>
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-<!--
-  _____     ____        __  _           ___       _ __   __       
- / ___/__  / / /__ ____/ /_(_)__  ___  / _ )__ __(_) /__/ /__ ____
-/ /__/ _ \/ / / -_) __/ __/ / _ \/ _ \/ _  / // / / / _  / -_) __/
-\___/\___/_/_/\__/\__/\__/_/\___/_//_/____/\_,_/_/_/\_,_/\__/_/   
-   
-    built with CollectionBuilder-GH
-    https://github.com/CollectionBuilder/collectionbuilder-gh 
--->
-<meta name="generator" content="collectionbuilder-gh" />
-<meta http-equiv="Content-Language" content="en-us" >
 
 <!-- load style sheets -->
 
@@ -35,145 +21,9 @@ custom-foot: js/item-js.html
 
 
 
-<!-- Last build date: 2022-03-17 -->
-  </head>
-  <body class="d-flex flex-column h-100">
-    <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
-    <div class="container pt-2">
-    <h1><a class="text-dark font-weight-normal" href="/" >Maps of the Development of Vancouver</a></h1>	 
-            <p>A Collection of Maps Available at UBC Vancouver's Koerner Library</p>
-</div>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <div class="container">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#page-nav" aria-controls="page-nav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="page-nav">
-            <ul class="navbar-nav mr-auto">
-                
-                <li class="nav-item ">
-                    <a class="nav-link " href="/">Home</a>
-                </li>
-                
-                <li class="nav-item ">
-                    <a class="nav-link " href="/browse.html">Browse</a>
-                </li>
-                
-                <li class="nav-item ">
-                    <a class="nav-link " href="/subjects.html">Subjects</a>
-                </li>
-                
-                <li class="nav-item ">
-                    <a class="nav-link " href="/map.html">Map</a>
-                </li>
-                
-                <li class="nav-item ">
-                    <a class="nav-link " href="/timeline.html">Timeline</a>
-                </li>
-                
-                <li class="nav-item ">
-                    <a class="nav-link " href="/data.html">Data</a>
-                </li>
-                
-                <li class="nav-item ">
-                    <a class="nav-link " href="/about.html">About</a>
-                </li>
-                
-                <li class="nav-item active">
-                    <a class="nav-link " href="/%20/additional-maps.html">Additional Maps</a>
-                </li></ul>
-            
-            <script>
-    function site_search() {
-        var query = document.getElementById("site-search").value;
-        window.open("/search/index.html?q=" + encodeURIComponent(query), "_self" );
-    }
-</script>
-<form class="form-inline my-2 my-lg-0" role="search" id="search" onsubmit="site_search(); return false;">
-    <div class="input-group">
-        <input id="site-search" class="form-control " type="text" placeholder="Search" aria-label="Search box">
-        <div class="input-group-append">
-            <button class="btn btn-light" type="submit">
-                <span id="search-icon"><svg viewBox="0 0 1024 974" height="16px" width="20px"><path d="M960 832L710.875 582.875C746.438 524.812 768 457.156 768 384 768 171.96900000000005 596 0 384 0 171.969 0 0 171.96900000000005 0 384c0 212 171.969 384 384 384 73.156 0 140.812-21.562 198.875-57L832 960c17.5 17.5 46.5 17.375 64 0l64-64C977.5 878.5 977.5 849.5 960 832zM384 640c-141.375 0-256-114.625-256-256s114.625-256 256-256 256 114.625 256 256S525.375 640 384 640z"/></svg></span>
-                <span class="sr-only">Search</span>
-            </button>
-        </div>
-    </div>
-</form>
-            
-        </div>
-    </div>
-</nav>
-
     <main id="maincontent" role="main" class="flex-shrink-0">
     <div class="container my-4">
     
-<!-- Modal -->
-<div class="modal fade" id="dataModal" tabindex="-1" role="dialog" aria-labelledby="dataModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="dataModalLabel">Collection Data</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-
-                <p>Download this collection's data in a variety of reusable formats.</p>
-                
-                
-                <div class="card my-3">
-                    <div class="card-body">
-                        <h5 class="card-title">Complete Metadata</h5>
-                        <p class="card-text">All metadata fields for all collection items, available as a CSV spreadsheet (usable in Excel, Google Sheets, and similar programs) or JSON file (often used with web applications).</p>
-                        <a href="/assets/data/metadata.csv" class="btn btn-outline-dark" target="_blank">Metadata CSV</a>
-                        <a href="/assets/data/metadata.json" class="btn btn-outline-dark" target="_blank">Metadata JSON</a>
-                    </div>
-                </div>
-                <div class="card my-3">
-                    <div class="card-body">
-                        <h5 class="card-title">Metadata Facets</h5>
-                        <p class="card-text">List of unique values and their count for specific metadata fields, useful for understanding content of the fields.</p>
-                        <a href="/assets/data/facets.json" class="btn btn-outline-dark" target="_blank">Facets JSON</a>
-                    </div>
-                </div>
-                <div class="card my-3">
-                    <div class="card-body">
-                        <h5 class="card-title">Subject Metadata</h5>
-                        <p class="card-text">Unique values and counts of subject metadata, useful for further analyzing the content of this collection.</p>
-                        <a href="/assets/data/subjects.csv" class="btn btn-outline-dark" target="_blank">Subjects CSV</a>
-                        <a href="/assets/data/subjects.json" class="btn btn-outline-dark" target="_blank">Subjects JSON</a>
-                    </div>
-                </div>
-                
-                
-                <div class="card my-3">
-                    <div class="card-body">
-                        <h5 class="card-title">GeoJSON</h5>
-                        <p class="card-text">Metadata for all collection items that have geographic coordinates in <a href="https://en.wikipedia.org/wiki/GeoJSON" target="_blank" rel="noopener">GeoJSON</a> format, useful for further exploration and analysis of this collection through a geographical lense.</p>
-                        <a href="/assets/data/geodata.json" class="btn btn-outline-dark" target="_blank">Geodata JSON</a>
-                    </div>
-                </div>
-                <div class="card my-3">
-                    <div class="card-body">
-                        <h5 class="card-title">Timeline</h5>
-                        <p class="card-text">A time-focused JSON data export designed for use with <a href="https://timeline.knightlab.com/" target="_blank" rel="noopener">TimelineJS</a>.</p>
-                        <a href="/assets/data/timelinejs.json" class="btn btn-outline-dark" target="_blank">TimelineJS JSON</a>
-                    </div>
-                </div><div class="card my-3">
-                    <div class="card-body">
-                        <h5 class="card-title">Website Source Code</h5>
-                        <p class="card-text">GitHub repository containing source code for this project built with <a href="https://github.com/CollectionBuilder/collectionbuilder-gh" target="_blank" rel="noopener">CollectionBuilder-GH</a>.</p>
-                        <a href="https://github.com/CollectionBuilder/collectionbuilder-gh" class="btn btn-outline-dark" target="_blank">Source Code</a>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-</div>
 
 
 <h2 id="Additional-Metadata">Additional Metadata</h2>
@@ -524,72 +374,7 @@ custom-foot: js/item-js.html
     </table>
 </div>
 
-</div>
 
-    </main>
-    <footer class="bg-dark mt-auto pt-4 container-fluid">
-
-    <div class="row align-items-center border-bottom border-white pb-4 mb-2">
-
-        <div class="col-md-8 mt-2">
-
-            <h4><a href="/" class="text-white font-weight-normal">Maps of the Development of Vancouver</a></h4>
-            <p class="text-white"><small>Maps of the Development of Vancouver is a collection of historical maps of Vancouver available through UBC's Koerner Library. An intended purpose of this collection is to visually demonstrate the development and accompanying gentrification of Vancouver over time. Click the button below to learn more about the collection, the creator, and how to access the items in this collection.</small></p>
-            <nav>
-                <ul class="nav nav-pills">
-                    <li class="nav-item">
-                    
-                        <a class="nav-link text-light" href="/">Home</a>
-                    </li>
-                    <li class="nav-item">
-                    
-                        <a class="nav-link text-light" href="/browse.html">Browse</a>
-                    </li>
-                    <li class="nav-item">
-                    
-                        <a class="nav-link text-light" href="/subjects.html">Subjects</a>
-                    </li>
-                    <li class="nav-item">
-                    
-                        <a class="nav-link text-light" href="/map.html">Map</a>
-                    </li>
-                    <li class="nav-item">
-                    
-                        <a class="nav-link text-light" href="/timeline.html">Timeline</a>
-                    </li>
-                    <li class="nav-item">
-                    
-                        <a class="nav-link text-light" href="/data.html">Data</a>
-                    </li>
-                    <li class="nav-item">
-                    
-                        <a class="nav-link text-light" href="/about.html">About</a>
-                    </li>
-                    <li class="nav-item">
-                    
-                        <a class="nav-link text-light active" href="/%20/additional-maps.html">Additional Maps</a>
-                    </li></ul>
-            </nav>
-
-        </div>
-
-        <div class="col-md-4 mt-2 text-right">
-            <p class="text-white" id="footer-credits">
-                <small><em>built with</em>
-                    <a href="https://collectionbuilder.github.io/" target="_blank" rel="noopener" title="CollectionBuilder">
-                        <img src="/assets/img/collectionbuilder-logo.png" class="img-fluid" alt="CollectionBuilder logo" >
-                    </a>
-                </small>
-            </p>
-        </div>
-
-    </div>
-
-    <div class="col-md-12 text-center pt-3 pb-1">
-        <p class="text-white">Last updated 2022</p>
-    </div>
-
-</footer>
     <!-- Optional JS for Bootstrap: jQuery first, then Bootstrap bundle JS -->
 <script src="/assets/lib/jquery-3.6.0.min.js"></script>
 <script src="/assets/lib/bootstrap.bundle.min.js"></script>
@@ -624,5 +409,3 @@ $(document).ready( function () {
     <span class="fa fa-angle-double-up fa-stack-1x" ></span>
     <span class="sr-only">up arrow</span>
 </button>
-  </body>
-</html>
