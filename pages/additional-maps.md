@@ -178,19 +178,19 @@ custom-foot: js/item-js.html
 
 <h2 id="Additional-Metadata">Additional Metadata</h2>
 
-<p>The table below provides sorting and basic search of the collection contents. </p>
+<p>Because copyright permissions could not be obtained for all maps in our collection within the timeframe of this project, I have included a list of other maps of interest in the Koerner Library's map collection here. The table below provides sorting and basic search of the additional maps, including a link to their record in the UBC database, if available. </p>
 
 
 <div class="table-responsive-md">
-    <table id="additional-data" class="table table-striped">
+    <table id="additional-data" class="table table-striped" style="font-size:20px">
         <thead>
             <tr>
-                <td>Title</td>
-                <td>Creator</td>
-                <td>Date</td>
-                <td>Description</td>
-                <td>Call Number</td>
-                <td>UBC Link</td>
+                <th scope="col">Title</th>
+                <th scope="col">Creator</th>
+                <th scope="col">Date</th>
+                <th scope="col">Description</th>
+                <th scope="col">Call Number</th>
+                <th scope="col">UBC Link</th>
             </tr>
         </thead>
         <tr>
