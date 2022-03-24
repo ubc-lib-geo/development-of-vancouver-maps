@@ -13,6 +13,6 @@ source, Library
 identifier,Call Number,
 type,Type,
 format,Format,
-permalink, Link to UBC Library Record,, true,
-rights,Rights,
+permalink, Link to UBC Library Record,,true,
+rights,Rights,,true
 rightsstatement,Rights Statement,,true
