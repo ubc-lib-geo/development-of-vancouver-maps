@@ -19,3 +19,4 @@ Moos, M., & Skaburskis, A. (2010). The Globalization of Urban Housing Markets: I
 
 Tolfo, G., & Doucet, B. (2022). Livability for whom?: Planning for livability and the gentrification of memory in Vancouver. Cities, 123, 103564. [https://doi.org/10.1016/j.cities.2022.103564](https://doi.org/10.1016/j.cities.2022.103564)
 
+Wallstam, M., & Crompton, N. (2013, July 25). City of perpetual displacement: 100 years since the destruction of the Kitsilano Reserve. The Mainlander. [https://themainlander.com/2013/07/25/city-of-perpetual-displacement-100-years-since-the-destruction-of-the-kitsilano-reserve/](https://themainlander.com/2013/07/25/city-of-perpetual-displacement-100-years-since-the-destruction-of-the-kitsilano-reserve/)
