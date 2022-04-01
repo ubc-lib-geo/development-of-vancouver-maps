@@ -5,7 +5,7 @@
         <div class="col-md-8 mt-2">
 
             <h4><a href="{{ '/' | relative_url }}" class="text-white font-weight-normal">{{ site.title }}</a></h4>
-            <p class="text-white"><small>{{ site.description }}</small></p>
+            <p class="text-white"><small>This collection was created on and references the unceded territories of the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and Sel̓íl̓witulh (Tsleil-Waututh) Nations. Please read the <a href="/maps-collection/indigenous-context">Indigenous Context</a> page for more details.</small></p>
             <nav>
                 <ul class="nav nav-pills">
                     {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%}
