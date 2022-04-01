@@ -6,6 +6,8 @@ permalink: /map-types.html
 
 {% include feature/nav-menu.html sections="Zoning and Local Area Maps;Transportation Maps;Census Tracts;Maps of Parks; Industrial and Noise Pollution Maps" %}
 
+Below are the types of maps included in the Koerner Library's collection that might be of interest in researching the gentrification of Vancouver. 
+
 
 ## Zoning and Local Area Maps
 These maps show the dwelling sizes, commercial, industrial, historical, and agricultural districts of Vancouver. By comparing these maps between key years (for example, the 1970s and 1980s), differences in density and dwelling types can provide evidence of gentrification in specific neighbourhoods. 
