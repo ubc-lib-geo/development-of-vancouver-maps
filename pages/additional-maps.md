@@ -1,30 +1,10 @@
 ---
 title: Additional Maps
 layout: default
-permalink: /additional-maps.html
-custom-foot: js/item-js.html
 ---
-
-<html lang="en" class="h-100">
-  <head prefix="og: http://ogp.me/ns#">
-
-<!-- load style sheets -->
-
-<link rel="stylesheet" href="/assets/lib/bootstrap.min.css" type="text/css">
-<script defer src="/assets/lib/fontawesome-free/js/all.min.js"></script>
+<head>
 
 <link rel="stylesheet" type="text/css" href="/assets/lib/datatables/datatables.min.css">
-
-
-<!-- load custom css last to allow overrides -->
-<link rel="stylesheet" href="/assets/css/custom.css" type="text/css">
-
-
-
-    <main id="maincontent" role="main" class="flex-shrink-0">
-    <div class="container my-4">
-    
-
 
 <h2 id="Additional-Metadata">Additional Metadata</h2>
 
@@ -35,12 +15,12 @@ custom-foot: js/item-js.html
     <table id="additional-data" class="table table-striped" style="font-size:20px">
         <thead>
             <tr>
-                <td>Title</td>
-                <td>Creator</td>
-                <td>Date</td>
-                <td>Description</td>
-                <td>Call Number</td>
-                <td>UBC Link</td>
+                <th>Title</th>
+                <th>Creator</th>
+                <th>Date</th>
+                <th>Description</th>
+                <th>Call Number</th>
+                <th>UBC Link</th>
             </tr>
         </thead>
         <tr>
