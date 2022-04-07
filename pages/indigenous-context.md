@@ -10,7 +10,7 @@ In creating this project, I recognize that the maps used depict the very recent 
 
 Furthermore, the maps in this collection are drawn from a Western perspective, and therefore emphasize details aligned with that perspective including infrastructure such as roads, buildings, and landmarks. 
 
-In understanding this collection, it is important to recognize the power that maps have: “As a political technology, mapping has long played a key role in the world-making practices of colonialism through the appropriation, demarcation, naming, and partitioning of territory as part of the process of colonization and the assertion of imperial rule over peoples and places [(Rose-Redwood et al., 2020)](/maps-colleciton/citations.html). 
+In understanding this collection, it is important to recognize the power that maps have: “As a political technology, mapping has long played a key role in the world-making practices of colonialism through the appropriation, demarcation, naming, and partitioning of territory as part of the process of colonization and the assertion of imperial rule over peoples and places [(Rose-Redwood et al., 2020)](/development-of-vancouver-maps/citations.html). 
 
 Consequently, in creating this map collection, I recognize that these maps do not and cannot tell a full story of the entirety of the displacement of Indigenous peoples in Vancouver. 
 To better understand the displacement of Indigenous peoples in Vancouver and mapping from Indigenous perspectives, I recommend the following resources:
