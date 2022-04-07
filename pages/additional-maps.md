@@ -1,12 +1,20 @@
 ---
 title: Additional Maps
-layout: default
+layout: page
+permalink: /additional-maps.html
+custom-foot: js/table-js.html
 ---
-<head>
 
 <link rel="stylesheet" type="text/css" href="/assets/lib/datatables/datatables.min.css">
+<!-- Optional JS for Bootstrap: jQuery first, then Bootstrap bundle JS -->
+<script src="/assets/lib/jquery-3.6.0.min.js"></script>
+<script src="/assets/lib/bootstrap.bundle.min.js"></script>
+<!-- load other js -->
+<script src="/assets/lib/lazysizes.min.js" async></script>
+<script type="text/javascript" language="javascript" src="/assets/lib/datatables/datatables.min.js"></script>
 
-<h2 id="Additional-Metadata">Additional Metadata</h2>
+
+<h2 id="Additional-Metadata">Additional Maps</h2>
 
 <p>Because copyright permissions could not be obtained for all maps in our collection within the timeframe of this project, I have included a list of other maps of interest in the Koerner Library's map collection here. The table below provides sorting and basic search of the additional maps, including a link to their record in the UBC database, if available. </p>
 
@@ -354,38 +362,9 @@ layout: default
     </table>
 </div>
 
-
-    <!-- Optional JS for Bootstrap: jQuery first, then Bootstrap bundle JS -->
-<script src="/assets/lib/jquery-3.6.0.min.js"></script>
-<script src="/assets/lib/bootstrap.bundle.min.js"></script>
-<!-- load other js -->
-<script src="/assets/lib/lazysizes.min.js" async></script>
-
-
-<script type="text/javascript" language="javascript" src="/assets/lib/datatables/datatables.min.js"></script>
 <script>
 /* use jquery to initialize DataTables and load collection data */
 $(document).ready( function () {
     $('#additional-data').DataTable();
 } );
 </script>
-
-
-    <script>
-    // When the user scrolls down from the top of the document, show the button
-    window.onscroll = function () {
-        if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
-            document.getElementById("scroll-to-top").style.display = "block";
-        } else {
-            document.getElementById("scroll-to-top").style.display = "none";
-        }
-    }
-    // scroll to top function
-    function scrollToTop() {
-        $('html, body').animate({scrollTop: 0}, 750);
-    }
-</script>
-<button id="scroll-to-top" type="button" class="btn btn-link btn-lg" onclick="scrollToTop();" title="Back to Top" aria-label="Back to Top">
-    <span class="fa fa-angle-double-up fa-stack-1x" ></span>
-    <span class="sr-only">up arrow</span>
-</button>
