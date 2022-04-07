@@ -33,10 +33,17 @@ See all [census tracts](/browse.html#census%20districts) maps. Remember that you
 ## Maps of Parks
 Creation or maintenance of parks may be associated with the gentrification of a neighbourhood; for example, following an increase in density of population due to condominium developments in the North False Creek area in the 2000s, some residents complained of decreased livability due to not enough amenities to support the growing population. In response, the City of Vancouver re-established park space [(Tolfo & Doucet, 2022).](/citations.html)
 
-Unfortunately, we could not provide access to any images of park maps. Remember that you may be able to find more relevant maps in the [Additional Maps](/additional-maps.html) page.
+Unfortunately, we could not provide access to any images of park maps from Koerner Library. The following map is available through the City of Vancouver's [Parks, Gardens, and Beaches website](https://vancouver.ca/parks-recreation-culture/parks-gardens-and-beaches.aspx), or as a [PDF](https://vancouver.ca/files/cov/parks-of-vancouver-1972.pdf). Remember that you may be able to find more relevant maps in the [Additional Maps](/additional-maps.html) page.
+
+{% include feature/image.html objectid="/assets/img/parks_1972.jpg" width="50" %}
+<center><i>Vancouver Parks, 1972</i></center>
 
 
 ## Industrial and Noise Pollution Maps
 Areas with industrial sites, pollution (including noise), or other externalities that are deemed “unpleasant” are often areas that are targeted by city planners for gentrification(Ley & Dobson, 2008); especially in the post war years of the 1960s and 1970s, public opinion turned against some of Vancouver’s oldest, often industrial neighbourhoods, and they were targeted for redevelopment [(Tolfo & Doucet, 2022)](/citations.html). 
 
-Unfortunately, we could not provide access to any images of industrial or noise pollution maps. Remember that you may be able to find more relevant maps in the [Additional Maps](/additional-maps.html) page.
+Unfortunately, we could not provide access to any images of industrial or noise pollution maps. The following map is available through the Port Vancouver's [Land Use Planning website](https://www.portvancouver.com/land/land-use-planning/), or as a [PDF](https://www.portvancouver.com/wp-content/uploads/2015/12/SiteEconomics-Study_MetroVancouver-Industrial-Land-Market.pdf). Remember that you may be able to find more relevant maps in the [Additional Maps](/additional-maps.html) page.
+
+
+{% include feature/image.html objectid="/assets/img/industrial-areas.jpg" width="50" %}
+<center><i>Major Industrial Areas in Metro Vancouver, 2015</i></center>
