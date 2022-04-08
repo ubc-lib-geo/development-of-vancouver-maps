@@ -36,3 +36,12 @@ A website for the political organization of provincial chiefs in British Columbi
 <ul>
 <li>Of interest might be their <a href="https://www.ubcic.bc.ca/timeline">historical timeline</a> and their <a href="https://www.ubcic.bc.ca/library)">library and archives</a>.</li>
 </ul>
+
+
+<b>[UBC's Aboriginal Maps and Mapping Guide](https://guides.library.ubc.ca/aboriginalmaps)</b>
+
+A guide with more resources available online or through UBC's Library. 
+
+<br>
+<br>
+<br>
