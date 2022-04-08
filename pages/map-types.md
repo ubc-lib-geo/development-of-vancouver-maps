@@ -4,7 +4,11 @@ layout: about
 permalink: /map-types.html
 ---
 
+<br>
+
 {% include feature/nav-menu.html sections="Zoning and Local Area Maps;Transportation Maps;Census Tracts;Maps of Parks; Industrial and Noise Pollution Maps" %}
+
+<br>
 
 Below are the types of maps included in the Koerner Library's collection that might be of interest in researching the gentrification of Vancouver. 
 

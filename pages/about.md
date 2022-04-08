@@ -34,4 +34,7 @@ My name is Charlie Fokkens, and I am a graduate student in the Master of Library
 
 Koerner Library is located on the University of British Columbia Vancouver campus, which is on theTraditional, Ancestral, and Unceded territories of the Musqueam people. This library houses resources for the Humanities and Social Sciences. Should you wish to view the physical maps references in this collection, you may do so by visiting the the map collection on the second floor, and search for the item using the Call Number (available in each item’s page).
 
+<br>
+<br>
+
 
